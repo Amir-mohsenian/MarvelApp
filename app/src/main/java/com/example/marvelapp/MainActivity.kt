@@ -40,6 +40,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+//Whole home screen
 @Composable
 fun MarvelMainScreen() {
     val allScreens = MarvelScreen.values().toList()
