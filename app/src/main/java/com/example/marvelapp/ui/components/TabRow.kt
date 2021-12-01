@@ -24,14 +24,11 @@ import androidx.compose.ui.semantics.Role
 import androidx.compose.ui.semantics.clearAndSetSemantics
 import androidx.compose.ui.semantics.contentDescription
 import androidx.compose.ui.text.TextStyle
-import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.marvelapp.MarvelScreen
-import com.example.marvelapp.ui.theme.Blue500
 import com.example.marvelapp.ui.theme.MidDarkBlue
-import java.util.*
 
 
 @Composable
