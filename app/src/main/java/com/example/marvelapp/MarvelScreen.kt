@@ -6,8 +6,6 @@ import androidx.compose.material.icons.filled.Home
 import androidx.compose.material.icons.filled.Person
 import androidx.compose.material.icons.filled.ThumbUp
 import androidx.compose.ui.graphics.vector.ImageVector
-import java.lang.IllegalArgumentException
-import java.util.jar.Attributes
 
 // TODO: 10/23/2021 change to sealed class
 enum class MarvelScreen(val icon: ImageVector) {
